@@ -1,0 +1,10 @@
+{
+  "name": "ChocolateQuakeAsm",
+  "exe": "C:/rhipper/src/chocolate-quake/build32/src/RelWithDebInfo/chocolate-quake-norand.exe",
+  "gen": "src/gen",
+  "build": {"config": "Release"},
+  "run": {
+    "cwd": "C:/rhipper/src/chocolate-quake/build32/src/RelWithDebInfo",
+    "args": ["-basedir", "C:/rhipper/data/quake-shareware", "-nosound", "-timedemoexit", "+host_framerate", "0.0138889", "+timedemo", "demo1"]
+  }
+}

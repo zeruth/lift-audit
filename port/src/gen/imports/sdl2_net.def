@@ -1,0 +1,12 @@
+LIBRARY SDL2_net.dll
+EXPORTS
+    SDLNet_GetError
+    SDLNet_GetLocalAddresses
+    SDLNet_Init
+    SDLNet_ResolveHost
+    SDLNet_ResolveIP
+    SDLNet_UDP_Close
+    SDLNet_UDP_GetPeerAddress
+    SDLNet_UDP_Open
+    SDLNet_UDP_Recv
+    SDLNet_UDP_Send

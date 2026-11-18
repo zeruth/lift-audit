@@ -1,0 +1,9 @@
+LIBRARY vorbisfile.dll
+EXPORTS
+    ov_clear
+    ov_info
+    ov_open_callbacks
+    ov_read
+    ov_seekable
+    ov_streams
+    ov_time_seek

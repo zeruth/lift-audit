@@ -1,0 +1,16 @@
+LIBRARY KERNEL32.dll
+EXPORTS
+    GetCommandLineW
+    GetCurrentProcessId
+    GetCurrentThreadId
+    GetModuleHandleW
+    GetProcessHeap
+    GetStartupInfoW
+    GetSystemTimeAsFileTime
+    HeapAlloc
+    HeapFree
+    InitializeSListHead
+    IsProcessorFeaturePresent
+    LocalFree
+    QueryPerformanceCounter
+    SetUnhandledExceptionFilter
